@@ -1,0 +1,81 @@
+/*Inserir as formatações css aqui */
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	font-size:16px;
+	font-family:"Trebuchet MS",Helvetica,sans-serif;
+	background:#f3f3f3;
+}
+#navegacao{
+	background:#fff;
+	border-bottom:1px solid #d8d8d8;
+	height:45px;
+}
+#area{
+	width:720px;
+	margin: 0 auto;
+}
+.verde{
+	color:#b9c941;
+}
+#menu{
+	float:right;
+	padding:10px 0 10px 0;
+}
+#logo{
+	float:left;
+}
+a{
+	text-decoration:none;
+	padding:9px;
+}
+a:link{
+	color:#838383;
+}
+a:visited{
+	color:#838383;
+}
+a:hover{
+	color:#fff;
+	background:#b9c941;
+}
+a:active{
+	color:#535353;
+}
+#area-principal{
+	width: 720px;
+	margin: 10px auto 10px auto;
+}
+#postagem{
+	background:#fff;
+	padding:10px;
+	margin-bottom:10px;
+}
+.data-postagem{
+	font-size:14px;
+	border-bottom:1px solid #f4f4f4;
+	display:block;
+	padding-bottom:10px;
+	margin-bottom:10px;
+}
+.img-postagem{
+	float:left;
+	margin:0 10px 5px 0;
+}
+.postado-por{
+	border-left:5px solid #d8d8d8;
+	padding-left:5px;
+	display:block;
+	margin-top:10px;
+}
+h2{
+	color:#b9c941;
+}
+p{
+	text-align:justify;
+}
+.titulo{
+	color:#2F4F4F;
+}
